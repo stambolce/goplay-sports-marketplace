@@ -1,3 +1,5 @@
+[Македонски](README.mk.md) · [English](README.md) · [Shqip](README.sq.md) · [Türkçe](README.tr.md)
+
 <div align="center">
 
 <img src="assets/goplay-hero.svg" width="100%" alt="GoPlay — Спортски маркетплејс за активности и услуги" />
