@@ -1,28 +1,20 @@
-[Македонски](README.mk.md) · [English](README.md) · [Shqip](README.sq.md) · [Türkçe](README.tr.md)
-
 <div align="center">
 
-<a href="https://goplay.mk"><img src="assets/goplay-hero.svg" width="100%" alt="GoPlay — Discover sports. Connect with opportunities. — PROCESS IN product showcase" /></a>
+# GoPlay
 
-<br/>
+[Македонски](README.mk.md) · [English](README.md) · [Shqip](README.sq.md) · [Türkçe](README.tr.md)
+
+<img src="assets/goplay-hero.svg" width="100%" alt="GoPlay — prezantim vizual i produktit" />
+
+**Zbuloni sportin. Lidhuni me mundësitë.**
 
 [![Official Website](https://img.shields.io/badge/GOPLAY_MK-OFFICIAL_WEBSITE-167AFF?style=for-the-badge)](https://goplay.mk)
 [![Product](https://img.shields.io/badge/EXPLORE-PRODUCT-17191D?style=for-the-badge)](https://goplay.mk)
 [![Developer](https://img.shields.io/badge/CREATED_BY-PROCESS_IN-167AFF?style=for-the-badge)](https://processin.mk)
 
-
-
-
-
-[Македонски](README.mk.md) · [PROCESS IN Portfolio](https://github.com/stambolce/process-in)
-
-### Zbuloni sportin. Lidhuni me mundësitë.
-
-**Zbuloni sportin. Lidhuni me mundësitë.**
+**LIVE**
 
 </div>
-
----
 
 ## Zbuloni sporte dhe mundësi
 
@@ -70,7 +62,7 @@ Treg sportiv, aktivitete sportive, drejtori shërbimesh, ofrues, akademi, mundë
 |---|---|
 | Produkti | GoPlay |
 | Faqja zyrtare | [goplay.mk](https://goplay.mk) |
-| Kategoria | Treg shërbimesh dhe aktivitetesh sportive |
+| Kategoria | Treg aktivitetesh dhe shërbimesh sportive |
 | Statusi | LIVE |
 | Zhvilluesi | [PROCESS IN](https://processin.mk) |
 | Portofoli | [PROCESS IN](https://github.com/stambolce/process-in) |

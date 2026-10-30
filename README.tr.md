@@ -1,28 +1,20 @@
-[Македонски](README.mk.md) · [English](README.md) · [Shqip](README.sq.md) · [Türkçe](README.tr.md)
-
 <div align="center">
 
-<a href="https://goplay.mk"><img src="assets/goplay-hero.svg" width="100%" alt="GoPlay — Discover sports. Connect with opportunities. — PROCESS IN product showcase" /></a>
+# GoPlay
 
-<br/>
+[Македонски](README.mk.md) · [English](README.md) · [Shqip](README.sq.md) · [Türkçe](README.tr.md)
+
+<img src="assets/goplay-hero.svg" width="100%" alt="GoPlay — ürün görsel sunumu" />
+
+**Sporu keşfedin. Fırsatlarla buluşun.**
 
 [![Official Website](https://img.shields.io/badge/GOPLAY_MK-OFFICIAL_WEBSITE-167AFF?style=for-the-badge)](https://goplay.mk)
 [![Product](https://img.shields.io/badge/EXPLORE-PRODUCT-17191D?style=for-the-badge)](https://goplay.mk)
 [![Developer](https://img.shields.io/badge/CREATED_BY-PROCESS_IN-167AFF?style=for-the-badge)](https://processin.mk)
 
-
-
-
-
-[Македонски](README.mk.md) · [PROCESS IN Portfolio](https://github.com/stambolce/process-in)
-
-### Sporu keşfedin. Fırsatlarla buluşun.
-
-**Sporu keşfedin. Fırsatlarla buluşun.**
+**LIVE**
 
 </div>
-
----
 
 ## Sporu ve fırsatları keşfedin
 
@@ -70,7 +62,7 @@ Spor pazarı, aktivite bulma, hizmet dizini, sağlayıcılar, akademiler, fırsa
 |---|---|
 | Ürün | GoPlay |
 | Resmî site | [goplay.mk](https://goplay.mk) |
-| Kategori | Spor hizmet ve etkinlik pazar yeri |
+| Kategori | Spor aktivite ve hizmet pazarı |
 | Durum | LIVE |
 | Geliştirici | [PROCESS IN](https://processin.mk) |
 | Portföy | [PROCESS IN](https://github.com/stambolce/process-in) |
